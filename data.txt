@@ -1,0 +1,1 @@
+[{"nama":"Tyo","Alamat":"Jl. Mawar"},{"nama":"Budi","Alamat":"Jl. Melati"},{"nama":"Santoso","Alamat":"Jl. Bunga"},{"nama":"Farhan","Alamat":"Jl. Mangga"}]
